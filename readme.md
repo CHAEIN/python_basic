@@ -9,7 +9,7 @@
 
 ## Getting Started / 어떻게 시작하나요?
 
-아나콘다 
+Pycham / 아나콘다
 
 ### Prerequisites / 선행 조건
 
